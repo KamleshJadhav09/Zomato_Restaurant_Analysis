@@ -1,5 +1,8 @@
 🍽️ Zomato Restaurant Analysis
 
+Dashboard:<img width="1366" height="743" alt="Screenshot 2025-12-08 193516" src="https://github.com/user-attachments/assets/4f794ca1-075d-4769-9ee2-42fb5d40600f" />
+<img width="1373" height="746" alt="Screenshot 2025-12-08 193539" src="https://github.com/user-attachments/assets/c817d0cc-c938-4918-8c75-0fe68a585f2a" />
+
 Tools Used: Microsoft Excel | Power BI
 📖 Project Overview
 
